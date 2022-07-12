@@ -1,4 +1,4 @@
-# BounceGameUnity
+# BounceGame
 
 A simple 2D platformer game with a red bouncy ball which must cross the red flag, beware of the obstacles!!
 
